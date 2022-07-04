@@ -15,3 +15,6 @@ References about thermostats:
 
 Reference about metadynamics (we didn't have time to go through this however):
 - Bussi and Parrinello [Nat Rev Phys](https://doi.org/10.1038/s42254-020-0153-0).
+
+Material about enhanced sampling, collective variables, etc.:
+- [PLUMED masterclass](https://www.plumed.org/masterclass)
